@@ -292,7 +292,6 @@ Motilal Nehru National Institute of Technology Allahabad (MNNIT)
 ### Connect With Me
 
 - GitHub: https://github.com/amriteshsingh956-tech
-- LinkedIn: Add your LinkedIn profile here
 
 ---
 
